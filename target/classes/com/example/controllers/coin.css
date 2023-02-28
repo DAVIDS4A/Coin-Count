@@ -1,0 +1,19 @@
+.button{
+-fx-background-color: #244564;
+-fx-background-radius:10 10 10 10;
+
+}
+
+.button:hover{
+-fx-background-color: #3674A7;
+-fx-background-radius:10 10 10 10;
+}
+
+.button:pressed{
+-fx-background-color:  #E08580;
+-fx-background-radius:10 10 10 10;
+}
+
+#wallet_icon{
+-fx-ColorAdjust-B
+}
